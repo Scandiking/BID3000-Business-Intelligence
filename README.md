@@ -281,10 +281,13 @@ psql -U postgres -d bid3000_eksamen -f Database/queries_bid3000.sql
 
 ## 👥 Contributors
 
-| Jonas El Hbabi Helling | 
-| **Kenneth Andreas Hansen** | 
-| Lucas Leon Svaet Holter | 
-| Kristian Martin Tvenning | 
+**Kenneth Andreas Hansen** (209660)
+
+**Jonas El Hbabi Helling** (263423)
+
+**Lucas Leon Svaet Holter** (265954)
+
+**Kristian Martin Tvenning** (265931)
 
 ## 📝 License
 
@@ -295,7 +298,7 @@ This project is part of academic coursework at USN and is intended for education
 - **Dataset:** Online Retail II (UCI Machine Learning Repository)
 - **Course:** BID3000 - Business Intelligence
 - **Institution:** University of South-Eastern Norway (USN)
-- **Instructor:** [Peyman Teymoori] 
+- **Instructor:** [Course Instructor Name]
 
 ## 📧 Contact
 
