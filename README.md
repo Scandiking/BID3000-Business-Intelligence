@@ -281,12 +281,10 @@ psql -U postgres -d bid3000_eksamen -f Database/queries_bid3000.sql
 
 ## 👥 Contributors
 
-| Name | Student Number | Role |
-|------|----------------|------|
-| Jonas El Hbabi Helling | 263423 | ETL Development, Database Design |
-| **Kenneth Andreas Hansen** | 209660 | **Analytics, ML Models, Documentation** |
-| Lucas Leon Svaet Holter | 265954 | PowerBI Dashboards, Visualizations |
-| Kristian Martin Tvenning | 265931 | SQL Queries, Business Analysis |
+| Jonas El Hbabi Helling | 
+| **Kenneth Andreas Hansen** | 
+| Lucas Leon Svaet Holter | 
+| Kristian Martin Tvenning | 
 
 ## 📝 License
 
@@ -297,7 +295,7 @@ This project is part of academic coursework at USN and is intended for education
 - **Dataset:** Online Retail II (UCI Machine Learning Repository)
 - **Course:** BID3000 - Business Intelligence
 - **Institution:** University of South-Eastern Norway (USN)
-- **Instructor:** [Course Instructor Name]
+- **Instructor:** [Peyman Teymoori] 
 
 ## 📧 Contact
 
