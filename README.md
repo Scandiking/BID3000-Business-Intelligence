@@ -14,6 +14,7 @@
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [Dashboard Preview](#dashboard-preview)
 - [Project Structure](#project-structure)
 - [Technologies](#technologies)
 - [Installation](#installation)
@@ -75,6 +76,33 @@ PowerBI dashboards with 5 interactive pages:
 - **Cancellations**: Lost revenue analysis
 - **Detailed Analysis**: Geographic and temporal insights
 - **Customer Segments**: Actionable insights with RFM analysis
+
+## 📸 Dashboard Preview
+
+### Main Dashboard
+Overview page with key performance indicators and navigation.
+
+![Main Dashboard](Dashboard/PowerBI_Screenshots/PowerBI_dashboard_Main_Page.png)
+
+### Revenue Analysis
+Detailed revenue breakdown by time, country, and product with drilldown capabilities.
+
+![Revenue Dashboard](Dashboard/PowerBI_Screenshots/PowerBI_dashboard_Revenue.png)
+
+### Cancellations Analysis
+Analysis of cancelled orders, lost revenue, and cancellation patterns.
+
+![Cancellations Dashboard](Dashboard/PowerBI_Screenshots/PowerBI_Dashboard_Cancellations.png)
+
+### Detailed Analysis
+Geographic distribution and comprehensive business metrics with interactive filters.
+
+![Detailed Analysis](Dashboard/PowerBI_Screenshots/PowerBI_dashboard_Detailed_Analysis_Page.png)
+
+### Customer Segmentation
+RFM-based customer segments with actionable business insights and recommendations.
+
+![Customer Segments](Dashboard/PowerBI_Screenshots/PowerBI_Customer_Segments.png)
 
 ## 📁 Project Structure
 
