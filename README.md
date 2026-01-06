@@ -281,13 +281,13 @@ psql -U postgres -d bid3000_eksamen -f Database/queries_bid3000.sql
 
 ## 👥 Contributors
 
-**Kenneth Andreas Hansen** (209660)
+**Kenneth Andreas Hansen** 
 
-**Jonas El Hbabi Helling** (263423)
+**Jonas El Hbabi Helling** 
 
-**Lucas Leon Svaet Holter** (265954)
+**Lucas Leon Svaet Holter** 
 
-**Kristian Martin Tvenning** (265931)
+**Kristian Martin Tvenning** 
 
 ## 📝 License
 
