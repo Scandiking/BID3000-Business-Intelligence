@@ -253,8 +253,6 @@ psql -U postgres -d bid3000_eksamen -f Database/queries_bid3000.sql
 
 ## 👥 Contributors
 
-| Name | Student Number | 
-|------|----------------|
 | Jonas El Hbabi Helling | 
 | **Kenneth Andreas Hansen** | 
 | Lucas Leon Svaet Holter | 
