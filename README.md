@@ -4,11 +4,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-green.svg)](https://www.postgresql.org/)
 [![PowerBI](https://img.shields.io/badge/PowerBI-Latest-yellow.svg)](https://powerbi.microsoft.com/)
-[![License](https://img.shields.io/badge/License-Academic-red.svg)](LICENSE)
 
 > **Course:** BID3000 - Business Intelligence  
 > **Institution:** University of South-Eastern Norway (USN)  
-> **Dataset:** Online Retail II (UCI Machine Learning Repository)  
+> **Dataset:** [Online Retail II (UCI Machine Learning Repository)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 > **Grade:** A
 
 ## 📋 Table of Contents
