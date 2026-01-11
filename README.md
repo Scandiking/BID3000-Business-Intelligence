@@ -7,7 +7,7 @@
 
 > **Course:** BID3000 - Business Intelligence  
 > **Institution:** University of South-Eastern Norway (USN)  
-> **Dataset:** [Online Retail II (UCI Machine Learning Repository)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+> **Dataset:** [Online Retail II (UCI Machine Learning Repository)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)  
 > **Grade:** A
 
 ## 📋 Table of Contents
@@ -30,9 +30,9 @@ This project demonstrates a complete Business Intelligence solution including:
 - **Interactive Dashboards** in PowerBI
 - **Advanced SQL** queries for business insights
 
-The analysis focuses on customer behavior, revenue optimization, and actionable business recommendations based on real e-commerce data.
+The analysis focuses on customer behavior, revenue optimization, and actionable business recommendations based on e-commerce data.
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Data Warehouse Design
 - **Star Schema** with dimension and fact tables
@@ -76,7 +76,7 @@ PowerBI dashboards with 5 interactive pages:
 - **Detailed Analysis**: Geographic and temporal insights
 - **Customer Segments**: Actionable insights with RFM analysis
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Main Dashboard
 Overview page with key performance indicators and navigation.
@@ -166,7 +166,7 @@ psycopg2
 - PostgreSQL 13+
 - PowerBI Desktop
 - Jupyter Notebook
-- Git/GitHub
+- GitHub
 
 **Machine Learning:**
 - K-Means Clustering
@@ -174,18 +174,18 @@ psycopg2
 - Gradient Boosting
 - XGBoost
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
 - PostgreSQL 13 or higher
-- PowerBI Desktop (for dashboard viewing)
+- PowerBI (for dashboard viewing)
 
 ### Setup Steps
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Karmaburner/BID3000-Business-Intelligence.git
+git clone https://github.com/Scandiking/BID3000-Business-Intelligence.git
 cd BID3000-Business-Intelligence
 ```
 
@@ -301,10 +301,9 @@ This project is part of academic coursework at USN and is intended for education
 
 ## 📧 Contact
 
-For questions or collaboration opportunities:
-- **Kenneth Hansen** - [kenneth.andreas.hansen@gmail.com](mailto:kenneth.andreas.hansen@gmail.com)
-- **LinkedIn:** [linkedin.com/in/kenneth-hansen-383056b7](https://linkedin.com/in/kenneth-hansen-383056b7)
-- **GitHub:** [github.com/Karmaburner](https://github.com/Karmaburner)
+- **Portfolio** - [My portfolio website](scandiking.github.io/TvenningsPortfolio)
+- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-profile-blue) [LinkedIn profile](https://www.linkedin.com/in/kristian-martin-tvenning-77475773/) 
+- **GitHub** - [GitHub profile](https://github.com/Scandiking)
 
 ---
 
