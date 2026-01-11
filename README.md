@@ -301,9 +301,11 @@ This project is part of academic coursework at USN and is intended for education
 
 ## 📧 Contact
 
-- **Portfolio** - [My portfolio website](scandiking.github.io/TvenningsPortfolio)
-- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-profile-blue) [LinkedIn profile](https://www.linkedin.com/in/kristian-martin-tvenning-77475773/) 
-- **GitHub** - [GitHub profile](https://github.com/Scandiking)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+
+- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-website-green)](https://scandiking.github.io/TvenningsPortfolio)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/kristian-martin-tvenning-77475773/)
+- [![Github profile Badge](https://img.shields.io/badge/Github-profile-lightgray)](https://github.com/Scandiking)
 
 ---
 
